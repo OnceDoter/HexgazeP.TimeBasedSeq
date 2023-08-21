@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Remove="DistributedTimeBasedSequence\**" />
+        <EmbeddedResource Remove="DistributedTimeBasedSequence\**" />
+        <None Remove="DistributedTimeBasedSequence\**" />
+        <None Remove=".dockerignore" />
+        <None Remove=".gitignore" />
+    </ItemGroup>
+
+</Project>

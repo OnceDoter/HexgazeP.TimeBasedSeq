@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeBasedSequence", "TimeBasedSequence.csproj", "{8619BD00-E57D-44FC-80AC-1F6F2B62DB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedTimeBasedSequence", "DistributedTimeBasedSequence\DistributedTimeBasedSequence.csproj", "{540EF905-4250-43E6-8AFB-0BF91E4D82BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8619BD00-E57D-44FC-80AC-1F6F2B62DB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8619BD00-E57D-44FC-80AC-1F6F2B62DB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8619BD00-E57D-44FC-80AC-1F6F2B62DB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8619BD00-E57D-44FC-80AC-1F6F2B62DB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540EF905-4250-43E6-8AFB-0BF91E4D82BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540EF905-4250-43E6-8AFB-0BF91E4D82BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540EF905-4250-43E6-8AFB-0BF91E4D82BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540EF905-4250-43E6-8AFB-0BF91E4D82BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
